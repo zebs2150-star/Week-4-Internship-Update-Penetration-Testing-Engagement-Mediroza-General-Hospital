@@ -1,0 +1,2 @@
+# Week-4-Internship-Update-Penetration-Testing-Engagement-Mediroza-General-Hospital
+Completed an authorized black-box penetration testing engagement against Mediroza General Hospital's web application as part of the NetworkWalks internship. Successfully identified critical vulnerabilities including SQL injection, weak password encryption, and database exposure, culminating in a professional security report
