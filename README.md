@@ -270,7 +270,7 @@ The author assumes no responsibility for unauthorized or illegal use of the info
 
 👤 Author
 
-YOGESH V
+Shahzeb Hassan 
 
 Cybersecurity Student
 Cybersecurity / Ethical Hacking Project
